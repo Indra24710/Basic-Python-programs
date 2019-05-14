@@ -1,2 +1,1 @@
-# side-programs
-personal skill programs
+secondary python programs
